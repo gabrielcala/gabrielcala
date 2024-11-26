@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Olá, meu nome é Gabriel, um desenvolvedor full stack apaixonado por blockchain e web3!</h1>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/gabrielcala"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gabrielcala"><img src="https://img.shields.io/badge/-Gabriel%20Calá-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:calagabriel6@gmail.com"><img src="https://img.shields.io/badge/-calagabriel6@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
