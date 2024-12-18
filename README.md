@@ -21,7 +21,7 @@
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![Jest](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity&logoColor=E535AB)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
